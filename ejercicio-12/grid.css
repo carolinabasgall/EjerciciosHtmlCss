@@ -1,0 +1,23 @@
+.row div {
+    margin: 1rem;
+    display: flex;
+}
+
+.col {
+    background-color: #BF98A0;
+}
+.col-sm {
+    background-color: #BCCCE0;
+}
+.col-md {
+    background-color: #A6D9F7;
+}
+.col-lg {
+    background-color: #84DCCF;
+}
+.col-xl {
+    background-color: #C1CC99;
+}
+.seis {
+    background-color: #F5A65B;
+}
